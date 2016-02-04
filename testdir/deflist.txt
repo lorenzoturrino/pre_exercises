@@ -1,0 +1,77 @@
+06.rb:puts w + e	#define 2 strings, then puts the sum (concatenation)
+18.rb:def print_two(*args)
+18.rb:def print_two_again(arg1, arg2)
+18.rb:def print_one(arg1)
+18.rb:def return_none()
+19.rb:def cheese_and_crackers(cheese_count, boxes_of_crackers)
+19.rb:def lister(*vars)
+20.rb:def print_all(f)	
+20.rb:def rewind(f)
+20.rb:def print_a_line(line_count, f)
+21.rb:def add(a, b)
+21.rb:def subtract(a, b)
+21.rb:def multiply(a, b)
+21.rb:def divide(a, b)
+24.rb:def secret_formula(started)
+25_mod.rb:  def Ex25.break_words(stuff)
+25_mod.rb:  def Ex25.sort_words(words)		  #self
+25_mod.rb:  def Ex25.print_first_word(words)			#se implicito, non riesco a chiamarlo dal modulo stesso
+25_mod.rb:  def Ex25.print_last_word(words)
+25_mod.rb:  def Ex25.sort_sentence(sentence)
+25_mod.rb:  def Ex25.print_first_and_last(sentence)
+25_mod.rb:  def Ex25.print_first_and_last_sorted(sentence)
+26.rb:  def Ex25.break_words(stuff)
+26.rb:  def Ex25.sort_words(words)
+26.rb:  def Ex25.print_first_word(words)
+26.rb:  def Ex25.print_last_word(words)
+26.rb:  def Ex25.sort_sentence(sentence)
+26.rb:  def Ex25.print_first_and_last(sentence)
+26.rb:  def Ex25.print_first_and_last_sorted(sentence)
+26.rb:def secret_formula(started)
+33.rb:def array_creator(start_num,end_num,step=1)
+35.rb:def dead(why)
+35.rb:def gold_room
+35.rb:def bear_room
+35.rb:def cthulhu_room
+35.rb:def start
+36.rb:def die(death_code=0)
+36.rb:def good_end(escape_code=0)
+36.rb:def room_1
+36.rb:def room_2
+36.rb:def room_3
+36.rb:def room_4
+36.rb:def room_4_clear
+36.rb:def room_5
+36.rb:def room_6
+36.rb:def room_7
+36.rb:def room_8
+36.rb:def room_9
+36.rb:def room_boss
+39.rb:# default values using ||= with the nil result
+40.rb:	def initialize(lyrics=[])
+40.rb:	def sing_it()
+41.rb:  "class ###\n\tdef initialize(@@@)\n\tend\nend" =>
+41.rb:  "class ###\n\tdef ***(@@@)\n\tend\nend" =>
+41.rb:def craft_names(rand_words, snippet, pattern, caps=false)	#create an array with the exact number of words
+41.rb:def craft_params(rand_words, snippet, pattern)
+41.rb:def convert(snippet, phrase)
+42.rb:  def initialize(name)
+42.rb:  def initialize(name)
+42.rb:## ?? def
+42.rb:  def initialize(name)
+42.rb:  def initialize(name, salary)
+42.rb:## ?? def
+43.rb:	def initialize(text="default riddle",sol="default solution",hint="default hint")
+43.rb:	def solve
+43.rb:	def tester
+43.rb:	def initialize(hp=0,atk=0)
+43.rb:	def slay
+43.rb:	def tester
+43.rb:	def initialize(size=rand(4)+2)
+43.rb:	def tester
+43.rb:	def pick_description
+43.rb:	def initialize
+43.rb:	def enter
+43.rb:	def tester
+43.rb:def lose
+43.rb:def game																						#cycle through the scenes, check status
